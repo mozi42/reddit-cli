@@ -4,7 +4,8 @@ description: Fetches and prints Reddit listings and comment threads with explici
 version: 1
 tags: [cli, reddit, scraping]
 metadata:
-  git_remote: ""
+  git_remote: "git@github.com:mozi42/reddit-cli.git"
+  git_remote_name: origin
   managed_by: mozi
 ---
 
