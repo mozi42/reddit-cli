@@ -1,6 +1,12 @@
-# reddit-cli (minimal)
+# reddit-cli
 
-Minimal unauthenticated Reddit CLI built on the public `.json` endpoints.
+Minimal unauthenticated Reddit CLI built on the public `.json` endpoints. No API key required.
+
+## Install
+
+```bash
+./install.sh
+```
 
 ## Usage
 
